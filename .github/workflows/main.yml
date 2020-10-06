@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.2
         with:
-          version: 12
+          node-version: 12
 
       # Install Yarn
       - name: GitHub Action for Yarn
