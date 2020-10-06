@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h2>React App Successfully deploy</h2>
+     <h2>React App Successfully deploys</h2>
     </div>
   );
 }
